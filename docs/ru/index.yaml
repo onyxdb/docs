@@ -1,5 +1,5 @@
 title: OnyxDB
-description: OnyxDB - DBaaS платформа в Kubernetes.
+description: OnyxDB - DBaaS (Database as a Service) платформа в Kubernetes.
 links:
   - title: О проекте
     href: about.md
