@@ -2,7 +2,7 @@
 
 Documentation is available at [onyxdb.tech](https://onyxdb.tech).
 
-This project is based on [diplodoc.com](https://diplodoc.com).
+This project is based on [Diplodoc](https://diplodoc.com).
 
 ## Development
 
