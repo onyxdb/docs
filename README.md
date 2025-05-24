@@ -1,9 +1,10 @@
 # OnyxDB docs
 
-Documentation is available at [onyxdb.tech](https://onyxdb.tech).  
+Documentation is available at [onyxdb.tech](https://onyxdb.tech).
+
+This project is based on [diplodoc.com](https://diplodoc.com)
 
 ## Development
-
 
 ### Install Python Venv
 
