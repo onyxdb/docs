@@ -2,7 +2,6 @@ title: OnyxDB platform
 href: index.yaml
 navigation:
   logo:
-    url: 'https://onyxdb.tech'
     dark:
       text: 'OnyxDB'
     light:
