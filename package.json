@@ -29,10 +29,10 @@
     "template"
   ],
   "license": "MIT",
-  "main": "scripts/serve.js",
+  "main": "serve.js",
   "scripts": {
-    "start": "npm run build:docs && node scripts/serve.js",
-    "build:docs": "yfm --input docs --output docs-html"
+    "start": "npm run build:docs && node serve.js",
+    "build:docs": "/bin/bash ./_scripts/build.sh"
   },
   "dependencies": {
     "@diplodoc/cli": "^4.59.11",
