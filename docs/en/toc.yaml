@@ -12,3 +12,5 @@ navigation:
 items:
   - name: About project
     href: about.md
+  - name: Glossary
+    href: glossary.md
