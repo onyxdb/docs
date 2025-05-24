@@ -18,10 +18,7 @@ pyenv install 3.12.1
 pip3 install -r ./_scripts/requirements.txt
 ```
 
-
-Start project locally with command:
+### Start project:
 ```shell
 npm start
-
-> listening on 0.0.0.0:8000
 ```
