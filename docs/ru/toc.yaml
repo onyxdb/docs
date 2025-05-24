@@ -12,3 +12,5 @@ navigation:
 items:
   - name: О проекте
     href: about.md
+  - name: Глоссарий
+    href: glossary.md
