@@ -4,10 +4,8 @@ navigation:
   logo:
     dark:
       text: 'OnyxDB'
-      icon: 'https://github.com/onyxdb/docs/blob/master/_assets/onyxdb_logo_circle_compressed.png?raw=true'
     light:
       text: 'OnyxDB'
-      icon: 'https://github.com/onyxdb/docs/blob/master/_assets/onyxdb_logo_circle_compressed.png?raw=true'
   header:
     rightItems:
       - type: controls
