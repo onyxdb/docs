@@ -1,5 +1,12 @@
-title: OnyxDB
+title: Документация
 href: index.yaml
-items: 
+navigation:
+  logo:
+    url: 'https://onyxdb.tech'
+    dark:
+      text: 'OnyxDB'
+    light:
+      text: 'OnyxDB'
+items:
   - name: О проекте
     href: about.md
