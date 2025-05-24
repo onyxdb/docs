@@ -1,4 +1,4 @@
-title: Документация
+title: Documentation
 href: index.yaml
 navigation:
   logo:
@@ -11,5 +11,5 @@ navigation:
     rightItems:
       - type: controls
 items:
-  - name: О проекте
+  - name: About project
     href: about.md
