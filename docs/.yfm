@@ -2,3 +2,6 @@ langs: ['ru', 'en']
 
 docs-viewer:
   langs: ['ru', 'en']
+
+search:
+  provider: local
