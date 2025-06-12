@@ -1,4 +1,4 @@
-title: Документация платформы
+title: Документация
 href: index.yaml
 navigation:
   logo:
@@ -9,8 +9,8 @@ navigation:
   header:
     rightItems:
       - type: controls
-items:
-  - name: О проекте
-    href: about.md
-  - name: Глоссарий
-    href: glossary.md
+items: []
+#  - name: О проекте
+#    href: about.md
+#  - name: Глоссарий
+#    href: glossary.md

@@ -17,6 +17,7 @@ pyenv install 3.12.1
 
 ```shell
 pip3 install -r ./_scripts/requirements.txt
+npm i
 ```
 
 ### Start project:
